@@ -1,0 +1,33 @@
+﻿  pong.cpp
+C:\Users\User\source\repos\SDL_Project_BASE\src\pong.cpp(61,15): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\SDL_Project_BASE\src\pong.cpp(62,15): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  SDL_Project.vcxproj -> C:\Users\User\source\repos\SDL_Project_BASE\project\x64\Debug\Pong.exe
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_image\lib\x64\libjpeg-9.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_image\lib\x64\libpng16-16.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_image\lib\x64\libtiff-5.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_image\lib\x64\libwebp-7.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_image\lib\x64\SDL2_image.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_image\lib\x64\zlib1.dll
+  6 archivo(s) copiado(s)
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_ttf\lib\x64\SDL2_ttf.dll
+  1 archivo(s) copiado(s)
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2\lib\x64\SDL2.dll
+  1 archivo(s) copiado(s)
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_mixer\lib\x64\libFLAC-8.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_mixer\lib\x64\libmodplug-1.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_mixer\lib\x64\libmpg123-0.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_mixer\lib\x64\libogg-0.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_mixer\lib\x64\libopus-0.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_mixer\lib\x64\libopusfile-0.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_mixer\lib\x64\libvorbis-0.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_mixer\lib\x64\libvorbisfile-3.dll
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\libs\SDL2_mixer\lib\x64\SDL2_mixer.dll
+  9 archivo(s) copiado(s)
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\assets\bgm\littleidea.mp3
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\assets\fonts\arial.ttf
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\assets\img\ballwhite.png
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\assets\img\enemy.png
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\assets\img\player.png
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\assets\img\tilewhite.png
+  C:\Users\User\source\repos\SDL_Project_BASE\project\..\assets\img\tilewhite2.png
+  7 archivo(s) copiado(s)
